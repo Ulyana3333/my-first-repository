@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.commands{
+    width: 130px;
+    height: 130px;
+   
+    
+}
+.gitcommands{
+    width: 95px;
+    height: 95px;
+  
+}
+li{
+    color: azure;
+}
+h1{
+    color: azure;
+}
+h2{
+    color: azure;
+}
